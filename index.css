@@ -137,7 +137,7 @@ header {
 
         .duvida .paragrafo {
           border-right: 1px solid #ff725E;  
-          border-bottom: 1px #ff725E;
+          border-bottom: 1px solid #ff725E;
           border-left: 1px solid #ff725E;
           border-radius: 0 0 8px 8px;
           margin-top: -8px;
