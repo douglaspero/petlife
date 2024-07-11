@@ -1,1 +1,4 @@
-Curso de HTML, CSS e JavaScript, pela OneBitCode. 
+
+Durante o curso de HTML, CSS e JavaScript pela OneBitCode, aprendi os fundamentos dessas três tecnologias essenciais para o desenvolvimento web. Com HTML, aprendi a estruturar o conteúdo do site, criando a base com elementos como cabeçalhos, parágrafos, listas e formulários. Com CSS, fui capaz de estilizar e dar layout ao site, personalizando cores, fontes, espaçamentos e posicionamentos dos elementos. Por fim, com JavaScript, adicionei interatividade e dinamismo ao site, manipulando o DOM e criando funcionalidades como validação de formulários, animações e requisições assíncronas.
+
+Ao longo do curso, desenvolvi um site completo, aplicando progressivamente os conhecimentos adquiridos em cada módulo. Esse projeto prático me permitiu consolidar o aprendizado e entender a integração das três tecnologias no desenvolvimento de uma aplicação web funcional e atrativa.
